@@ -1,6 +1,4 @@
-hello
-i'm /briss
-i'm a new dev/engineer
+i will be the best nvpRT in france 
 
 
 <!---
